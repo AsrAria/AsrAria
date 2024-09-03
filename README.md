@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="center" src="https://avatars.githubusercontent.com/u/180265977"/>
+<img align-items= "center" src="https://avatars.githubusercontent.com/u/180265977"/>
 **AsrAria/AsrAria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
